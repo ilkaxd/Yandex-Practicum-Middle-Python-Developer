@@ -77,6 +77,15 @@
             <a href="https://github.com/ilkaxd/Auth_sprint_1" target="_blank">Проектное задание</a>
           </td>
         </tr>
+        <tr>
+          <td>3</td>
+          <td>7</td>
+          <td>FastAPI</td>
+          <td>Сервис Auth (OAuth + интеграция с другими сервисами)</td>
+          <td>
+            <a href="https://github.com/ilkaxd/Auth_sprint_2" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
