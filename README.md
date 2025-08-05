@@ -15,7 +15,9 @@
       </caption>
       <thead>
         <tr>
-          <th>№ спринта</th>
+          <th>Модуль</th>
+          <th>Спринт</th>
+          <th>Фреймворк</th>
           <th>Блок</th>
           <th>Проектная работа</th>
         </tr>
@@ -23,9 +25,56 @@
       <tbody>
         <tr>
           <td>1</td>
-          <td>Модуль 1. Сервис Admin Panel</td>
+          <td>1</td>
+          <td>Django</td>
+          <td>Admin Panel</td>
           <td>
-            <a href="https://github.com/ilkaxd/new_admin_panel_sprint_1" target="_blank">Проектное задание первого спринта</a>
+            <a href="https://github.com/ilkaxd/new_admin_panel_sprint_1" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>2</td>
+          <td>Django</td>
+          <td>Сервис API</td>
+          <td>
+            <a href="https://github.com/ilkaxd/new_admin_panel_sprint_2" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>3</td>
+          <td>-</td>
+          <td>Сервис ETL</td>
+          <td>
+            <a href="https://github.com/ilkaxd/new_admin_panel_sprint_3" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>4</td>
+          <td>FastAPI</td>
+          <td>Сервис AsyncAPI</td>
+          <td>
+            <a href="https://github.com/ilkaxd/Async_API_sprint_1" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>5</td>
+          <td>FastAPI</td>
+          <td>Сервис AsyncAPI (Тестирование + SOLID)</td>
+          <td>
+            <a href="https://github.com/ilkaxd/Async_API_sprint_2" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>6</td>
+          <td>FastAPI</td>
+          <td>Сервис Auth</td>
+          <td>
+            <a href="https://github.com/ilkaxd/Auth_sprint_1" target="_blank">Проектное задание</a>
           </td>
         </tr>
       </tbody>
