@@ -86,6 +86,15 @@
             <a href="https://github.com/ilkaxd/Auth_sprint_2" target="_blank">Проектное задание</a>
           </td>
         </tr>
+        <tr>
+          <td>4</td>
+          <td>8</td>
+          <td>Flask</td>
+          <td>Сервис UGC</td>
+          <td>
+            <a href="https://github.com/ilkaxd/ugc_sprint_1" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
