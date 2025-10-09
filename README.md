@@ -95,6 +95,15 @@
             <a href="https://github.com/ilkaxd/ugc_sprint_1" target="_blank">Проектное задание</a>
           </td>
         </tr>
+        <tr>
+          <td>4</td>
+          <td>9</td>
+          <td>FastAPI</td>
+          <td>Сервис UGC (логирование + CI/CD)</td>
+          <td>
+            <a href="https://github.com/ilkaxd/ugc_sprint_2" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
