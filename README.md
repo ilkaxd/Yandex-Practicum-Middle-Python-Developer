@@ -104,6 +104,15 @@
             <a href="https://github.com/ilkaxd/ugc_sprint_2" target="_blank">Проектное задание</a>
           </td>
         </tr>
+        <tr>
+          <td>5</td>
+          <td>10</td>
+          <td>FastAPI</td>
+          <td>Сервис нотификации</td>
+          <td>
+            <a href="https://github.com/ilkaxd/notifications_sprint_1" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
