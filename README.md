@@ -113,6 +113,15 @@
             <a href="https://github.com/ilkaxd/notifications_sprint_1" target="_blank">Проектное задание</a>
           </td>
         </tr>
+        <tr>
+          <td>6</td>
+          <td>11</td>
+          <td>FastAPI</td>
+          <td>Дипломный серввис</td>
+          <td>
+            <a href="https://github.com/ilkaxd/graduate_work" target="_blank">Проектное задание</a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </body>
