@@ -117,9 +117,9 @@
           <td>6</td>
           <td>11</td>
           <td>FastAPI</td>
-          <td>Дипломный сервис\nКино вместе</td>
+          <td>Дипломный сервис</td>
           <td>
-            <a href="https://github.com/ilkaxd/graduate_work" target="_blank">Проектное задание</a>
+            <a href="https://github.com/ilkaxd/graduate_work" target="_blank">Кино вместе</a>
           </td>
         </tr>
       </tbody>
